@@ -8,6 +8,6 @@
 - Pico Unreal Integration SDK v2.1.2
 
 ## Description:
-- Broadband Haptic: This feature allows developers to more finely control the controllers' vibration, including amplitude and frequency. The common method is to make the controller vibrate according to the audio.
+- Broadband Haptic: This feature allows developers to more finely control the controllers' vibration, including amplitude and frequency. It allows the controller to vibrate according to the audio.
 ## Note:
 - This project integrates v4.27 of Pico Unreal Integration SDK v2.1.2, If you are using other version of the engine, you need to download the corresponding version of Pico Unreal Integration SDK at [here.](https://developer-global.pico-interactive.com/sdk?deviceId=1&platformId=2&itemId=13)
